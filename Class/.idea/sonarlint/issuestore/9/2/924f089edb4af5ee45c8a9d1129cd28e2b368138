@@ -1,0 +1,15 @@
+
+b	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(Ê¹¢»8åì¸Öë0
+g	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(ìÃşÿÿÿÿ8åì¸Öë0
+g	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(ï±½£ûÿÿÿÿ8åì¸Öë0
+b	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(²­’æ8åì¸Öë0
+b	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(„Ñ’“8åì¸Öë0
+_
+java:S3518T"=Make sure "number2" can't be zero before doing this division.(‚½ëİúÿÿÿÿ8İî¸Öë0
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÙØ¤Şıÿÿÿÿ8àî¸Öë0
+=	java:S131G""Add a default case to this switch.(î­™o8ïî¸Öë0
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(ÎíÌòıÿÿÿÿ8ğî¸Öë0
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8ñî¸Öë0
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(‚½ëİúÿÿÿÿ8ñî¸Öë0
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(“Å©Æùÿÿÿÿ8ñî¸Öë0
